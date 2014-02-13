@@ -11,11 +11,7 @@ border:1px solid black;
 </head>
 
 <body>
-<<<<<<< HEAD
-<table style="background-color:#FF9999;width:300px">
-=======
 <table style="background-color:#9999FF;width:300px">
->>>>>>> m1
 <tr>
    <th>Mobile Company</th>
    <th>Mobile Price</th>
